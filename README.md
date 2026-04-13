@@ -1,3 +1,7 @@
+# 📁 项目文件结构
+本仓库包含以下文件：
+- 📄 `RFM_Ecommerce_Customer_Analysis.ipynb`：原始分析代码，可运行查看详细过程
+- 📊 `RFM_Ecommerce_Customer_Analysis.html`：HTML 交互式报告，方便直接查看结果与图表
 # RFM E-commerce Customer Analysis
 
 ## 📌 项目简介
